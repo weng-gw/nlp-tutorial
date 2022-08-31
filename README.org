@@ -1,0 +1,9 @@
+#+STARTUP: latexpreview
+#+STARTUP: inlineimages
+#+TITLE: NLP tutorial
+
+This repo is mainly used to host my own code files of NLP implementations, or NLP tutorials. The goal is to help myself get some more hands-on practices after I have learned some NLP models/methods. The methods could be from some online NLP courses, e.g., [[https://www.coursera.org/specializations/natural-language-processing][Natural Language Processing Specialization from DeepLearning.AI]],  [[https://web.stanford.edu/class/cs224n/][CS224N from Stanford]], or they could be from some online posts.
+
+* Natural Language Processing Specialization from DeepLearning.AI
+
+
